@@ -1,0 +1,51 @@
+@use './components/MatrixHero';
+@use './components/Characters';
+@use './components/MatrixTransition';
+
+* {
+  margin: 0;
+  padding: 0;
+  box-sizing: border-box;
+  user-select: none;
+}
+
+body {
+  line-height: 1.5;
+  min-height: 100vh;
+  display: flex;
+  flex-direction: column;
+  background: black;
+}
+
+
+section {
+    width: 100%;
+    max-width: 1280px;
+    padding: 16px 40px;
+    background: transparent;
+}
+
+p,
+span,
+h1,
+h2,
+h3,
+h4,
+h5,
+h6 {
+  cursor: pointer; 
+  user-select: none !important;
+}
+
+.main-page {
+  position: relative;
+  background: #000;
+  min-height: 100vh;
+}
+
+.content-section {
+  position: relative;
+  z-index: 2;
+  background: #000;
+  transition: transform 0.3s ease, opacity 0.3s ease;
+}

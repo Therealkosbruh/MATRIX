@@ -1,0 +1,42 @@
+{
+    "matrix": {
+        "title" : "Matrix",
+        "poster": "",
+        "description": "",
+        "rate": {
+            "imdb": "",
+            "kinopoisk": "",
+            "roten": ""
+        }
+    },
+    "revolution": {
+        "title" : "Matrix",
+        "poster": "",
+        "description": "",
+        "rate": {
+            "imdb": "",
+            "kinopoisk": "",
+            "roten": ""
+        }
+    },
+    "reloaded": {
+        "title" : "Matrix",
+        "poster": "",
+        "description": "",
+        "rate": {
+            "imdb": "",
+            "kinopoisk": "",
+            "roten": ""
+        }
+    },
+    "resurection": {
+        "title" : "Matrix",
+        "poster": "",
+        "description": "",
+        "rate": {
+            "imdb": "",
+            "kinopoisk": "",
+            "roten": ""
+        }
+    }
+}
