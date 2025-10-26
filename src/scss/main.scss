@@ -1,6 +1,8 @@
 @use './components/MatrixHero';
 @use './components/Characters';
 @use './components/MatrixTransition';
+@use './components/Films';
+@use './components/Footer';
 
 * {
   margin: 0;
@@ -23,6 +25,7 @@ section {
     max-width: 1280px;
     padding: 16px 40px;
     background: transparent;
+    margin: 0 auto;
 }
 
 p,

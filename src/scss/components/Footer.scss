@@ -1,0 +1,62 @@
+.footer {
+  width: 100%;
+  display: flex;
+  justify-content: center;
+  align-items: center;
+  background: transparent;
+  padding-top: 40px;
+  position: relative;
+
+  
+  .footer-inner {
+    max-width: 1280px;
+    width: 100%;
+    border-top: 1px solid rgba(192, 192, 192, 0.6); 
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    position: relative;
+    padding: 20px 0;
+  }
+
+  .footer-content {
+    text-align: center;
+
+    p,
+    .github-link {
+      color: white;
+      font-size: 1.2rem;
+      font-weight: 600;
+      margin: 0;
+    }
+
+    .github-link {
+      display: inline-block;
+      margin-bottom: 10px;
+      position: relative;
+      text-decoration: none;
+      transition: color 0.3s ease;
+
+      &:hover {
+        color: #dcdcdc;
+      }
+    }
+  }
+}
+
+@keyframes glowAppear {
+  0% {
+    transform: translateX(-50%) translateY(10px) scale(0.6);
+    opacity: 0;
+    filter: blur(10px);
+  }
+  50% {
+    opacity: 0.5;
+    filter: blur(8px);
+  }
+  100% {
+    transform: translateX(-50%) translateY(0) scale(1);
+    opacity: 1;
+    filter: blur(6px);
+  }
+}
