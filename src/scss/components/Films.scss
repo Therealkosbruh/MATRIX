@@ -100,3 +100,19 @@
     }
   }
 }
+
+.filmCardLink {
+  text-decoration: none;
+  color: inherit;
+  display: block;
+  width: 100%;
+
+  &:hover {
+    text-decoration: none;
+    color: inherit;
+  }
+  
+  &:focus {
+    outline: none;
+  }
+}

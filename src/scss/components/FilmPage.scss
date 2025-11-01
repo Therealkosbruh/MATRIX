@@ -1,0 +1,9 @@
+.filmPage {
+  width: 100%;
+  padding: 0 40px;
+  background: transparent;
+
+  @media (max-width: 768px) {
+    padding: 0 20px;
+  }
+}

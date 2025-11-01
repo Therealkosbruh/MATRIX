@@ -1,0 +1,51 @@
+.filmInfo {
+  width: 100%;
+  margin: 32px 0;
+  text-align: left;
+  color: #e0e0e0; // Белый-серый оттенок
+  font-family: 'Matrix Code NFI', monospace;
+
+  h1 {
+    font-size: 36px;
+    margin-bottom: 20px;
+    color: #f0f0f0;
+    font-weight: normal;
+
+    @media (max-width: 768px) {
+      font-size: 28px;
+    }
+  }
+
+  .ratings {
+    display: flex;
+    gap: 32px;
+    margin-bottom: 24px;
+    flex-wrap: wrap;
+
+    .rating {
+      display: flex;
+      align-items: center;
+      gap: 10px;
+      font-size: 20px; // Увеличили размер
+      color: #cccccc;
+
+      img {
+        width: 28px;
+        height: 28px;
+        object-fit: contain;
+      }
+
+      span {
+        font-size: 22px;
+        font-weight: bold;
+      }
+    }
+  }
+
+  p {
+    font-size: 18px;
+    line-height: 1.7;
+    color: #d0d0d0;
+    max-width: 900px;
+  }
+}

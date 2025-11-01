@@ -6,12 +6,12 @@ const Footer: React.FC = () => {
       <div className="footer-inner">
         <div className="footer-content">
           <a
-            href="https://github.com/Therealkos"
+            href="https://github.com/Therealkosbruh"
             className="github-link"
             target="_blank"
             rel="noopener noreferrer"
           >
-            @Therealkos
+            Therealkos
           </a>
           <p>© 2025</p>
         </div>

@@ -3,6 +3,9 @@
 @use './components/MatrixTransition';
 @use './components/Films';
 @use './components/Footer';
+@use './components/FilmPage';
+@use './components/FilmPlayer';
+@use './components/FilmInfo';
 
 * {
   margin: 0;

@@ -10,7 +10,12 @@
             "imdb": "8.7",
             "kinopoisk": "8.5",
             "roten": "88%"
-        }
+        },
+        "meta": {
+            "title": "Матрица (1999) - Смотреть онлайн бесплатно",
+            "description": "Культовый sci-fi фильм о хакере Нео, открывающем правду о симулированной реальности. Смотреть Матрицу онлайн в HD."
+        },
+        "video": "https://tubitv.com/movies/675892/the-matrix/embed"
     },
     "reloaded": {
         "title": "Матрица: Перезагрузка",
@@ -21,7 +26,12 @@
             "imdb": "7.2",
             "kinopoisk": "7.7",
             "roten": "74%"
-        }
+        },
+        "meta": {
+            "title": "Матрица: Перезагрузка (2003) - Смотреть онлайн бесплатно",
+            "description": "Продолжение Матрицы: Нео борется за спасение человечества. Смотреть онлайн в HD."
+        },
+        "video": "https://tubitv.com/movies/675838/the-matrix-reloaded/embed"
     },
     "revolution": {
         "title": "Матрица: Революция",
@@ -32,7 +42,12 @@
             "imdb": "6.7",
             "kinopoisk": "7.6",
             "roten": "34%"
-        }
+        },
+        "meta": {
+            "title": "Матрица: Революция (2003) - Смотреть онлайн бесплатно",
+            "description": "Финал трилогии Матрицы: эпическая битва Нео за будущее. Смотреть онлайн в HD."
+        },
+        "video": "https://tubitv.com/movies/675896/the-matrix-revolutions/embed"
     },
     "resurection": {
         "title": "Матрица: Воскрешение",
@@ -43,6 +58,11 @@
             "imdb": "5.7",
             "kinopoisk": "5.7",
             "roten": "63%"
-        }
+        },
+        "meta": {
+            "title": "Матрица: Воскрешение (2021) - Смотреть онлайн бесплатно",
+            "description": "Возвращение Нео в обновленную Матрицу. Смотреть онлайн в HD."
+        },
+        "video": "https://tubitv.com/movies/100006143/the-matrix-resurrections/embed"
     }
 }
